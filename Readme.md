@@ -1,0 +1,1 @@
+Este repositório foi criado para a disciplina de DESENVOLVIMENTO DE SOFTWARE PARA DISPOSITIVOS MÓVEIS.
