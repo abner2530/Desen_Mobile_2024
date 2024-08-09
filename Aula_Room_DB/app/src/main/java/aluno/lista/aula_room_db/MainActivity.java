@@ -70,12 +70,13 @@ public class MainActivity extends AppCompatActivity {
             String name = edit_Name.getText().toString().trim();
             String course = edit_Course.getText().toString().trim();
             String ageStr = edit_Age.getText().toString().trim();
-            int age = Integer.parseInt(ageStr);
 
             if (name.isEmpty() || course.isEmpty() || ageStr.isEmpty()) {
                 Toast.makeText(MainActivity.this, "Preencha todos os campos! Algum campo está vazio.", Toast.LENGTH_SHORT).show();
                 return;
             }
+
+            int age = Integer.parseInt(ageStr);
 
             // Inserindo novo Estudante no Banco
             Student newStudent = new Student(name, course, age);
