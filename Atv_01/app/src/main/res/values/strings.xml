@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="quantidade_lotes">Quantidade de lotes: </string>
+    <string name="comprar">Comprar </string>
+</resources>
