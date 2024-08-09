@@ -50,9 +50,9 @@ public class MainActivity extends AppCompatActivity {
                 .allowMainThreadQueries()
                 .fallbackToDestructiveMigration().build();
 
-        TarefaDAO studentDAO = db.tarefaDAO();
+        TarefaDAO tarefaDAO = db.tarefaDAO();
 
-        loadRecyclerList(studentDAO);
+        loadRecyclerList(tarefaDAO);
 
         button.setOnClickListener(v -> {
             startActivity(new Intent(MainActivity.this, NovaTarefa.class));

@@ -32,6 +32,9 @@ public class NovaTarefa extends AppCompatActivity {
         edit_Descricao = findViewById(R.id.edit_descricao);
         Button btn_cadastrar = findViewById(R.id.btn_cadastrar);
 
+        MainActivity main = new MainActivity();
+
+
         AppDatabase db = Room.databaseBuilder(getApplicationContext(),
                         AppDatabase.class, "DB-Tarefas")
                 .enableMultiInstanceInvalidation()
