@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "631265446811",
+    "firebase_url": "https://teste-744b8-default-rtdb.firebaseio.com",
+    "project_id": "teste-744b8",
+    "storage_bucket": "teste-744b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631265446811:android:15c6f23d9d4aa5b32f6f3e",
+        "android_client_info": {
+          "package_name": "aluno.dsmobile.aula_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5KYOMXgyOYUpu4V3mLHvRO5I4YIZns_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
