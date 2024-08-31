@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "150419146097",
+    "firebase_url": "https://aula-appinvestor-default-rtdb.firebaseio.com",
+    "project_id": "aula-appinvestor",
+    "storage_bucket": "aula-appinvestor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150419146097:android:99c75c6fc1f62f8fa6a2d0",
+        "android_client_info": {
+          "package_name": "aluno.dsmobile.aula_appinvestidor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA8RkVkzL6aCHXzKmrCLz_VU2T5AKEPyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
