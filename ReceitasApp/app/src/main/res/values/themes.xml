@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ReceitasApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorOnPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+    </style>
+
+    <style name="RecyclerView">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="CARDVIEW">
+        <item name="cardBackgroundColor">#FF5722</item>
+    </style>
+
+    <style name="TABLAYOUT">
+        <item name="android:background">#FF5722</item>
+        <item name="tabTextColor">@color/white</item>
+    </style>
+
+    <style name="FUNDODETAIL">
+        <item name="android:background">#FF5722</item>
+    </style>
+
+    <!-- Light Theme -->
+    <style name="Theme.ReceitasApp" parent="Base.Theme.ReceitasApp" />
+</resources>

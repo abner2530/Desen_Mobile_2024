@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "465140026547",
+    "firebase_url": "https://receitasapp-93b1e-default-rtdb.firebaseio.com",
+    "project_id": "receitasapp-93b1e",
+    "storage_bucket": "receitasapp-93b1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465140026547:android:00aaf598edce0160e9f4c6",
+        "android_client_info": {
+          "package_name": "aluno.dsmobile.receitasapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABJ1CiqsoceemOzYyxD6nhAIGnL6M4-Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
